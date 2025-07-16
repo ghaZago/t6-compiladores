@@ -1,6 +1,6 @@
 # Playlist Language Compiler
 
-Linguagem criada como parte do trabalho final da disciplina de Compiladores, destinada à definição e validação de playlists musicais com suporte a metadados estruturados.
+Linguagem criada como parte do trabalho final da disciplina de Compiladores, destinada à definição e validação de playlists musicais com suporte a metadados estruturados. O vídeo de apresentação pode ser acessado por esse link: https://drive.google.com/file/d/1E04mzck311Mhk5Dr0ZF0BwSSrY2nPO5d/view?usp=drive_link
 
 ### Como funciona?
 A linguagem permite definir uma playlist através de um arquivo de texto com uma estrutura clara e obrigatória. O compilador lê este arquivo, valida sua sintaxe e semântica, e gera uma página representativa da playlist.
